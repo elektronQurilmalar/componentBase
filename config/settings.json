@@ -1,0 +1,39 @@
+{
+    "theme": "Tizim (Yorqin)",
+    "confirm_delete": true,
+    "default_datasheet_dir": "",
+    "last_import_dir": "C:/Users/user/Desktop",
+    "last_export_dir": "C:/Users/user/Desktop",
+    "visible_columns": [
+        "id",
+        "name",
+        "part_number",
+        "value",
+        "manufacturer",
+        "category_id",
+        "package_type_id",
+        "quantity",
+        "min_quantity",
+        "location_id",
+        "project"
+    ],
+    "column_headers_uz": {
+        "id": "ID",
+        "name": "Nomi",
+        "part_number": "Qism Raqami",
+        "value": "Qiymati",
+        "manufacturer": "Ishlab chiqaruvchi",
+        "category_id": "Kategoriya",
+        "package_type_id": "Korpus",
+        "quantity": "Miqdori",
+        "min_quantity": "Min.Miqdor",
+        "location_id": "Joylashuvi",
+        "project": "Loyiha"
+    },
+    "custom_text_fields": [
+        {
+            "db_key": "abc",
+            "display_name_uz": "ABC"
+        }
+    ]
+}
